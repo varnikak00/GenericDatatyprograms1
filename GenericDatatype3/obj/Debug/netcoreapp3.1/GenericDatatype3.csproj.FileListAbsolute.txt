@@ -1,0 +1,5 @@
+C:\Users\gokul\source\repos\GenericDatatype\GenericDatatype3\obj\Debug\netcoreapp3.1\GenericDatatype3.csproj.AssemblyReference.cache
+C:\Users\gokul\source\repos\GenericDatatype\GenericDatatype3\obj\Debug\netcoreapp3.1\GenericDatatype3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokul\source\repos\GenericDatatype\GenericDatatype3\obj\Debug\netcoreapp3.1\GenericDatatype3.AssemblyInfoInputs.cache
+C:\Users\gokul\source\repos\GenericDatatype\GenericDatatype3\obj\Debug\netcoreapp3.1\GenericDatatype3.AssemblyInfo.cs
+C:\Users\gokul\source\repos\GenericDatatype\GenericDatatype3\obj\Debug\netcoreapp3.1\GenericDatatype3.csproj.CoreCompileInputs.cache
